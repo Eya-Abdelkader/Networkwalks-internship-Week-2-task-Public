@@ -68,7 +68,7 @@ The example results provided in the practical identified four live hosts:
 - `10.0.0.1`
 - `10.0.0.2`
 - `10.0.0.3`
-- `10.0.0.4`
+- `10.0.0.10`
 
 The example results also included four MAC addresses.
 
